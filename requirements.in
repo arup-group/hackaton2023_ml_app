@@ -1,0 +1,8 @@
+# requirements.in
+numpy
+fastapi
+fastapi-utils
+pip-tools
+scikit-learn
+uvicorn
+pydantic
